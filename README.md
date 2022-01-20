@@ -1,1 +1,1 @@
-Resume using the html snd css.
+Resume using the html and css.
